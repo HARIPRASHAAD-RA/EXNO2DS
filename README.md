@@ -125,4 +125,4 @@ sns.pairplot(df)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus the output verifies that the given data set has been applied the EDA process and methods.
